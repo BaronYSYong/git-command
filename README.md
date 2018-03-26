@@ -1,1 +1,2 @@
-# git-command
+# Everything about git
+
