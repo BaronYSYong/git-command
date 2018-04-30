@@ -1,0 +1,12 @@
+[alias]
+	glog = log --all --pretty='format:%d %Cgreen%h%Creset %an - %s' --graph
+
+[user]
+	email = example@gmail.com
+	name = example
+	
+[push]
+	default = simple
+	
+[tool]
+	diff = meld
