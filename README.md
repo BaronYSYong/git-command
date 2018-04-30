@@ -1,2 +1,1 @@
-# Everything about git
-
+# Git
