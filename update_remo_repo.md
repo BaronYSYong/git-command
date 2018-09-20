@@ -1,6 +1,6 @@
 # Reference: 
-    * http://www.blackdogfoundry.com/blog/moving-repository-from-bitbucket-to-github/
-    * http://www.paulund.co.uk/change-url-of-git-repository
+* http://www.blackdogfoundry.com/blog/moving-repository-from-bitbucket-to-github/
+* http://www.paulund.co.uk/change-url-of-git-repository
 
 ```
 $ cd $HOME/Code/repo-directory
