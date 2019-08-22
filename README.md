@@ -20,3 +20,7 @@ git push <remote> new_name
 # Reset the upstream branch for the new_name local branch
 git push <remote> -u new-name
 ```
+* drop the unnecesarry commit
+```
+$ git rebase -i HEAD~4
+```
