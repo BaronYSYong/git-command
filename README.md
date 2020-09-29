@@ -4,7 +4,7 @@
 * [Change remote url](https://help.github.com/en/articles/changing-a-remotes-url)
 
 ## Command
-* git cherry-pick -e -m 1 {commit_ref_number}
+* git cherry-pick -e -m 1 {commit_hash_number}
 
 * rename a branch
 ```
@@ -24,3 +24,4 @@ git push <remote> -u new-name
 ```
 $ git rebase -i HEAD~4
 ```
+* git revert {commit_hash_number}
